@@ -1,0 +1,43 @@
+{
+  "#006": {
+    "id": 6,
+    "base_name": "Charizard",
+    "forms": [
+      {
+        "form_name": "Charizard",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      },
+      {
+        "form_name": "Mega Charizard X",
+        "types": [
+          "Fire",
+          "Dragon"
+        ],
+        "img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f2.png"
+      },
+      {
+        "form_name": "Mega Charizard Y",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png"
+      },
+      {
+        "form_name": "Gigantamax Charizard",
+        "types": [
+          "Fire",
+          "Flying"
+        ],
+        "img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f4.png"
+      }
+    ]
+  },
+  "007": {
+    
+  }
+}
