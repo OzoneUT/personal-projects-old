@@ -1,0 +1,24 @@
+
+Name=Ozone
+Nickname=Ozzy
+Relationship=Self
+Number=2547217914
+Email=kafleyozone@gmail.com
+Address=1812 Stratford Dr.
+Notes=Notes=
+
+Name=Tom
+Nickname=Tommy
+Relationship=Other
+Number=4564854846
+Email=tom@gmai.com
+Address=address
+Notes=Notes
+
+Name=Zima
+Nickname=zimmu
+Relationship=Other
+Number=2254845448
+Email=zima@email.com
+Address=123 Israel
+Notes=Nota
